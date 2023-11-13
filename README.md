@@ -1,3 +1,3 @@
-# SecretNotes-SIMPLE
+# SecretNotes-Sample
 
 This is a sample exercise project codes...
